@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1560538039 source:c:\users\cc\desktop\jody\assign2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+	"display.h"
+
+1560533556 source:c:\users\cc\desktop\jody\assign2\input.c
+	<stdio.h>
+	<stdlib.h>
+
+1560537264 c:\users\cc\desktop\jody\assign2\input.h
+	<stdio.h>
+	<stdlib.h>
+
+1560575736 c:\users\cc\desktop\jody\assign2\display.h
+
